@@ -143,9 +143,11 @@ wd719x-firmware
 wget
 
 ###xorg
+xorg
 xorg-server
 xorg-apps
 xorg-xinit
+xterm
 
 ###video
 xf86-input-elographics
@@ -167,7 +169,7 @@ mesa
 nvidia-dkms
 nvidia-utils
 nvidia-settings
-#mesa-utils
+mesa-utils
 
 ###base-devel
 base-devel
@@ -183,23 +185,55 @@ alsa-firmware
 alsa-plugins
 alsa-lib
 alsa-utils
+alsa-topology-conf
 gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
+gstreamer-vaapi
 gstreamer
 libdvdcss
-pulseaudio
-pulseaudio-alsa
 pavucontrol
+
+###pipewire
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-docs
+pipewire-pulse
+pipewire-zeroconf
+playerctl
+volumeicon
+wireplumber
+
+###codecs and mulitimedia utils
+cdrdao
+faac
+faad2
+ffmpeg
+ffmpegthumbnailer
+flac
+frei0r-plugins
+imagemagick
+lame
+libdvdcss
+libopenraw
+x265
+x264
+xvidcore
+
+###pulse audio
+#pulseaudio
+#pulseaudio-alsa
+
 
 ###bluetooth
 blueberry
 bluez
 bluez-libs
 bluez-utils
-pulseaudio-bluetooth
+#pulseaudio-bluetooth
 
 ###network
 avahi
@@ -250,21 +284,21 @@ poppler-qt5
 #########################################################################
 
 ###applications
-chromium
-dmenu
+#chromium
+#dmenu
 firefox
-galculator
-gimp
+#galculator
+#gimp
 imagemagick
-inkscape
+#inkscape
 lshw
 meld
-nitrogen
+#nitrogen
 numlockx
 qbittorrent
 scrot
-simplescreenrecorder-qt6-git
-variety
+#simplescreenrecorder-qt6-git
+#variety
 vlc
 
 lm_sensors
@@ -298,9 +332,9 @@ evince
 expac
 file-roller
 git
-gnome-disk-utility
-gnome-keyring
-gnome-screenshot
+#gnome-disk-utility
+#gnome-keyring
+#gnome-screenshot
 gparted
 gpick
 hardinfo2
@@ -308,11 +342,11 @@ libmtp
 laptop-detect
 lsb-release
 plocate
-nomacs
+#nomacs
 oh-my-zsh-git
 p7zip
 pkgfile
-playerctl
+#playerctl
 polkit
 polkit-gnome
 qt5ct
@@ -321,6 +355,18 @@ simple-scan
 #telegram-desktop
 tlp
 tree
+bzip2
+gzip
+lha
+lrzip
+lz4
+lzip
+lzop
+tar
+unarj
+xz
+zip
+zstd
 unace
 unrar
 unzip
@@ -331,28 +377,31 @@ zsh
 zsh-completions
 zsh-syntax-highlighting
 
+
+
 ###########################################################################
 #                           REPOS
 ###########################################################################
 
 ###applications
-vivaldi
-vivaldi-ffmpeg-codecs
+#vivaldi
+#vivaldi-ffmpeg-codecs
 
 ###cursors
 bibata-cursor-theme
 
 ###icons
-numix-icon-theme-git
-numix-circle-icon-theme-git
-sardi-icons
-surfn-icons-git
+#numix-icon-theme-git
+#numix-circle-icon-theme-git
+#sardi-icons
+#surfn-icons-git
 
 ###tools
 mkinitcpio-openswap
 
 ###utilities
 alacritty
+ghostty
 appstream
 appstream-qt5
 downgrade
@@ -360,8 +409,8 @@ font-manager
 gitahead
 hardcode-fixer-git
 inxi
-mintstick
-neofetch-git
+#mintstick
+fastfetch
 paru-git
 python-pyparted
 python-pywal
@@ -389,7 +438,7 @@ adobe-source-han-sans-cn-fonts
 ###########################################################################
 
 accountsservice
-sddm-git
+sddm
 
 ###########################################################################
 ####                           DESKTOP MANAGERS
@@ -397,6 +446,7 @@ sddm-git
 
 xfce4
 xfce4-goodies
+xfce4-docklike-plugin
 
 ###########################################################################
 ####                       APPS
@@ -419,9 +469,12 @@ tldr
 ttf-ms-fonts
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
-variety
+#variety
+eza
 vimix-cursors
-yad
+zenity
+
+
 
 ###########################################################################
 ####                               CHAOTICS AUR
@@ -436,46 +489,45 @@ chaotic-mirrorlist
 ####                               NEMESIS REPO
 ###########################################################################
 
-arc-gtk-theme
+#arc-gtk-theme
 archlinux-logout-git
 archlinux-tweak-tool-git
 #ckb-next-git
-edu-arc-dawn-git
-edu-arc-kde
+#edu-arc-dawn-git
+#edu-arc-kde
 #edu-awesome-git
 #edu-bspwm-git
-edu-chadwm-git
-edu-dot-files-git
-edu-hblock-git
+#edu-chadwm-git
+#edu-dot-files-git
+#edu-hblock-git
 #edu-i3-git
 #edu-leftwm-git
-edu-neo-candy-arc-git
-edu-neo-candy-arc-mint-grey-git
-edu-neo-candy-arc-mint-red-git
-edu-neo-candy-qogir-git
-edu-neo-candy-tela-git
+#edu-neo-candy-arc-git
+#edu-neo-candy-arc-mint-grey-git
+#edu-neo-candy-arc-mint-red-git
+#edu-neo-candy-qogir-git
+#edu-neo-candy-tela-git
 #edu-papirus-dark-tela-git
 #edu-papirus-dark-tela-grey-git
 #edu-plasma-keybindings-git
 #edu-plasma-servicemenus-git
-edu-polybar-git
+#edu-polybar-git
 #edu-qtile-git
-edu-rofi-git
-edu-rofi-themes-git
-edu-sddm-simplicity-git
-edu-shells-git
+#edu-rofi-git
+#edu-rofi-themes-git
+#edu-sddm-simplicity-git
+#edu-shells-git
 #edu-surfn-numixs-blue-git
-edu-variety-config-git
+#edu-variety-config-git
 #edu-vimix-dark-tela-git
 #edu-xfce-git
-flameshot-git
+#flameshot-git
 gitahead-git
 hardcode-fixer-git
-lastpass
+#lastpass
 neo-candy-icons-git
 pacman-hook-kernel-install
 pamac-aur
-sparklines-git
 ttf-material-design-iconic-font
 wttr
 
@@ -485,22 +537,23 @@ wttr
 ###########################################################################
 
 alacritty
-edu-chadwm-git
+#edu-chadwm-git
 autorandr
 dash
-dmenu
+#dmenu
 feh
+fzf
 gcc
 lolcat
 make
-picom-git
+#picom-git
 polkit-gnome
-rofi
-sxhkd
+#rofi
+#sxhkd
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
 ttf-meslo-nerd-font-powerlevel10k
-volumeicon
+#volumeicon
 xorg-xsetroot
 
 ###########################################################################
