@@ -1,0 +1,29 @@
+{
+    "name": "One Half Black",
+    "comment": "Ported for Tilix Colour Scheme",
+    "use-theme-colors": false,
+    "background-color": "#000000",
+    "foreground-color": "#dcdfe4",
+    "cursor-color":     "#dcdfe4",
+    "palette": [
+    	"#282c34",
+		"#e06c75",
+		"#98c379",
+		"#e5c07b",
+		"#61afef",
+		"#c678dd",
+		"#56b6c2",
+		"#dcdfe4",
+		"#282c34",
+		"#e06c75",
+		"#98c379",
+		"#e5c07b",
+		"#61afef",
+		"#c678dd",
+		"#56b6c2",
+		"#dcdfe4"
+    ]
+}
+
+
+

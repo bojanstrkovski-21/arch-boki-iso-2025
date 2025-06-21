@@ -1,0 +1,25 @@
+{
+    "name": "Monokai Pro Filter Ristretto",
+    "comment": "Monokai Dark Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#fff1f3",
+    "background-color": "#2c2525",
+    "palette": [
+        "#2c2525",
+        "#fd6883",
+        "#adda78",
+        "#f38d70",
+        "#85dacc",
+        "#a8a9eb",
+        "#a1efe4",
+        "#c3b7b8",
+        "#948a8b",
+        "#fd688359",
+        "#bad761",
+        "#orange",
+        "#f9cc6c",
+        "#a8a9eb59",
+        "#1e1f2b",
+        "#fff1f3"
+    ]
+}

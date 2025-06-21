@@ -1,0 +1,25 @@
+{
+    "name": "Arc Dark",
+    "comment": "Ported for Terminix Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#d3dae3",
+    "background-color": "#383c4a",
+    "palette": [
+        "#23252e",
+        "#e14245",
+        "#5ca75b",
+        "#f6ab32",
+        "#4877b1",
+        "#a660c3",
+        "#73c5e2",
+        "#a9a9aa",
+        "#63686d",
+        "#e2afec",
+        "#616981",
+        "#2c2f3a",
+        "#8ca9bf",
+        "#d3dae3",
+        "#fdc35f",
+        "#fcfcfc"
+    ]
+}

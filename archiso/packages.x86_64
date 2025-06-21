@@ -426,7 +426,7 @@ yay-git
 ###########################################################################
 
 calamares
-arch-boki-calamares-config
+arch-boki-calamares-cfg
 arch-boki-system-installation
 
 adobe-source-han-sans-jp-fonts
@@ -566,4 +566,4 @@ xorg-xsetroot
 ####                           arch-boki REPO
 ###########################################################################
 
-arch-boki-xfce-git
+#archboki-xfce

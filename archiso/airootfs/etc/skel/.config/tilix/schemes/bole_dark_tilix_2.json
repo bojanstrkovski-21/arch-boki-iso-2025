@@ -1,0 +1,36 @@
+{
+    "name": "bole_dark_tilix_2",
+    "comment": "",
+    "cursor-background-color": "#09b2ad",
+    "cursor-foreground-color": "#FFFFFF",
+    "highlight-background-color": "#333333",
+    "highlight-foreground-color": "#FFFFFF",
+    "badge-color": "#AC7EA8",
+    "bold-color": "#FFFFFF",
+    "background-color": "#1d283a",
+    "foreground-color": "#f8fafc",
+
+    "palette": [
+        "#1d283a",
+        "#FF5370",
+        "#C3E88D",
+        "#F78C6C",
+        "#89DCFF",
+        "#C792EA",
+        "#EEFFFF",
+        "#2b3a52",
+        "#222e41",
+        "#f07178",
+        "#C3E88D",
+        "#FFCB6B",
+        "#82AAFF",
+        "#C792EA",
+        "#98F6E2",
+        "#f8fafc"
+    ],
+    "use-badge-color": false,
+    "use-bold-color": false,
+    "use-cursor-color": false,
+    "use-highlight-color": false,
+    "use-theme-colors": false
+}

@@ -1,0 +1,25 @@
+{
+    "name": "One Dark VScode",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#abb2bf",
+    "background-color": "#282c34",
+    "cursor-color": "#ff616e",
+    "palette": [
+      "#1e2227",
+      "#E06C75",
+      "#98c379",
+      "#d19a66",
+      "#61afef",
+      "#c678dd",
+      "#56b6c2",
+      "#abb2bf",
+      "#5c6370",
+      "#9A353D",
+      "#98c379",
+      "#948B60",
+      "#e5c07b",
+      "#c678dd",
+      "#56b6c2",
+      "#e6e6e6"]
+}

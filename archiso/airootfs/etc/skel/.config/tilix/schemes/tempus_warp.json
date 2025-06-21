@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Warp",
+    "comment": "Dark theme with a vibrant palette (WCAG AA compliant)",
+    "foreground-color": "#a29fa0",
+    "background-color": "#001514",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#001514",
+    "highlight-background-color": "#a29fa0",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#001514",
+    "cursor-background-color": "#a29fa0",
+    "use-badge-color": true,
+    "badge-color": "#968282",
+    "palette": [
+        "#001514",
+        "#ff3737",
+        "#169c16",
+        "#9f8500",
+        "#5781ef",
+        "#da4ebf",
+        "#009880",
+        "#968282",
+        "#261c2c",
+        "#F0681A",
+        "#3aa73a",
+        "#ba8a00",
+        "#8887f0",
+        "#d85cf2",
+        "#1da1af",
+        "#a29fa0"
+    ]
+}

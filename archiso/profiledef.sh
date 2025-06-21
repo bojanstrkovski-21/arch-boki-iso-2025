@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="arch-boki"
-iso_label="arch-boki-v25.06.19.01"
+iso_label="arch-boki-v25.06.22.01"
 iso_publisher="arch-boki"
 iso_application="arch-boki Live/Rescue CD"
-iso_version="v25.06.19.01"
+iso_version="v25.06.22.01"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'

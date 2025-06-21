@@ -1,0 +1,29 @@
+{
+    "name": "Srcery",
+    "comment": "Ported for Tilix Colour Scheme",
+    "use-theme-colors": false,
+    "background-color": "#282828",
+    "foreground-color": "#ebdbb2",
+    "cursor-color":     "#ebdbb2",
+    "palette": [
+    	"#1C1B19",
+		"#FF3128",
+		"#519F50",
+		"#FBB829",
+		"#5573A3",
+		"#E02C6D",
+		"#0AAEB3",
+		"#918175",
+		"#2D2B28",
+		"#F75341",
+		"#98BC37",
+		"#FED06E",
+		"#8EB2F7",
+		"#E35682",
+		"#53FDE9",
+		"#FCE8C3"
+    ]
+}
+
+
+

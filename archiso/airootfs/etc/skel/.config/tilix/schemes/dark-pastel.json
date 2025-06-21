@@ -1,0 +1,28 @@
+{
+    "name": "Dark Pastel",
+    "comment": "Ported for Tilix Colour Scheme",
+    "use-theme-colors": false,
+    "background-color": "#000000",
+    "foreground-color": "#ffffff",
+    "palette": [
+    	"#000000",
+		"#ff5555",
+		"#55ff55",
+		"#ffff55",
+		"#5555ff",
+		"#ff55ff",
+		"#55ffff",
+		"#bbbbbb",
+		"#555555",
+		"#ff5555",
+		"#55ff55",
+		"#ffff55",
+		"#5555ff",
+		"#ff55ff",
+		"#55ffff",
+		"#ffffff"
+    ]
+}
+
+
+

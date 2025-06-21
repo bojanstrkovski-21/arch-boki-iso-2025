@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Autumn",
+    "comment": "Dark theme with a palette inspired by earthly colours (WCAG AA compliant)",
+    "foreground-color": "#a9a2a6",
+    "background-color": "#302420",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#302420",
+    "highlight-background-color": "#a9a2a6",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#302420",
+    "cursor-background-color": "#a9a2a6",
+    "use-badge-color": true,
+    "badge-color": "#a8948a",
+    "palette": [
+        "#302420",
+        "#f46f55",
+        "#85a400",
+        "#b09640",
+        "#799aca",
+        "#df798e",
+        "#52a885",
+        "#a8948a",
+        "#36302a",
+        "#e27e3d",
+        "#43aa7a",
+        "#ba9400",
+        "#958fdf",
+        "#ce7dc4",
+        "#2fa6b7",
+        "#a9a2a6"
+    ]
+}

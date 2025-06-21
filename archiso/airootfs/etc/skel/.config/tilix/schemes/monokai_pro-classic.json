@@ -1,0 +1,25 @@
+{
+    "name": "Monokai Pro Classic",
+    "comment": "Monokai Dark Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#fdfff1",
+    "background-color": "#272822",
+    "palette": [
+        "#272822",
+        "#f92672",
+        "#a6e22e",
+        "#fd971f",
+        "#66d9ef",
+        "#ae81ff",
+        "#a1efe4",
+        "#c0c1b5",
+        "#919288",
+        "#f9267259",
+        "#a6e22e",
+        "#f4bf75",
+        "#e6db74",
+        "#ae81ff59",
+        "#1d1e19",
+        "#fdfff1"
+    ]
+}

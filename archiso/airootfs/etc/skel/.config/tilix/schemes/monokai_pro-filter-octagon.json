@@ -1,0 +1,25 @@
+{
+    "name": "Monokai Pro Filter Octagon",
+    "comment": "Monokai Dark Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#eaf2f1",
+    "background-color": "#282a3a",
+    "palette": [
+        "#282a3a",
+        "#ff657a",
+        "#bad761",
+        "#ff9b5e",
+        "#9cd1bb",
+        "#c39ac9",
+        "#a1efe4",
+        "#b2b9bd",
+        "#888d94",
+        "#ff657a59",
+        "#bad761",
+        "#orange",
+        "#ffd76d",
+        "#c39ac959",
+        "#1e1f2b",
+        "#eaf2f1"
+    ]
+}

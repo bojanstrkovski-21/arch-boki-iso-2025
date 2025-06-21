@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Future",
+    "comment": "Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)",
+    "foreground-color": "#b4abac",
+    "background-color": "#090a18",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#090a18",
+    "highlight-background-color": "#b4abac",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#090a18",
+    "cursor-background-color": "#b4abac",
+    "use-badge-color": true,
+    "badge-color": "#a7a2c4",
+    "palette": [
+        "#090a18",
+        "#ff7e8f",
+        "#6aba39",
+        "#bfa51a",
+        "#4ab2d7",
+        "#e58f84",
+        "#2ab7bb",
+        "#a7a2c4",
+        "#2b1329",
+        "#f78e2f",
+        "#60ba80",
+        "#de9b1d",
+        "#8ba7ea",
+        "#e08bd6",
+        "#2cbab6",
+        "#b4abac"
+    ]
+}

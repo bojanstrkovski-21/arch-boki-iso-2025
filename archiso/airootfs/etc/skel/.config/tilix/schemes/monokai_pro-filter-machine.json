@@ -1,0 +1,25 @@
+{
+    "name": "Monokai Pro Filter Machine",
+    "comment": "Monokai Dark Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#f2fffc",
+    "background-color": "#273136",
+    "palette": [
+        "#272822",
+        "#ff6d7e",
+        "#a2e57b",
+        "#ffb270",
+        "#7cd5f1",
+        "#baa0f8",
+        "#a1efe4",
+        "#b8c4c3",
+        "#8b9798",
+        "#ff6d7e59",
+        "#a2e57b",
+        "#orange",
+        "#ffed72",
+        "#baa0f859",
+        "#161b1e",
+        "#f2fffc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Monokai Pro Filter Spectrum",
+    "comment": "Monokai Dark Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#f7f1ff",
+    "background-color": "#222222",
+    "palette": [
+        "#222222",
+        "#fc618d",
+        "#7bd88f",
+        "#f38d70",
+        "#5ad4e6",
+        "#948ae3",
+        "#a1efe4",
+        "#bab6c0",
+        "#8b888f",
+        "#fc618d59",
+        "#7bd88f",
+        "#orange",
+        "#fce566",
+        "#948ae359",
+        "#1e1f2b",
+        "#f7f1ff"
+    ]
+}

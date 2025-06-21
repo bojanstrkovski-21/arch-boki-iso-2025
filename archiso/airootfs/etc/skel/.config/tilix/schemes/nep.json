@@ -1,0 +1,26 @@
+{
+    "name": "Nep",
+    "comment": "Ported for Tilix Colour Scheme",
+    "use-theme-colors": false,
+    "background-color": "#758480",
+    "foreground-color": "#23476a",
+    "cursor_coor":      "#23476a",
+    "palette": [
+    	"#000000",
+		"#dd6f00",
+		"#00dd6f",
+		"#6fdd00",
+		"#6f00dd",
+		"#dd006f",
+		"#006fdd",
+		"#f2f2f2",
+		"#7d7d7d",
+		"#ffb974",
+		"#74ffb9",
+		"#b9ff74",
+		"#b974ff",
+		"#ff74b9",
+		"#74b9ff",
+		"#ffffff"
+    ]
+}

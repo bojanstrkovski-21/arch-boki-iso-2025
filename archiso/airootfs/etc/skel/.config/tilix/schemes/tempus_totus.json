@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Totus",
+    "comment": "Light theme for prose or for coding in an open space (WCAG AAA compliant)",
+    "foreground-color": "#4a484d",
+    "background-color": "#ffffff",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#ffffff",
+    "highlight-background-color": "#4a484d",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#ffffff",
+    "cursor-background-color": "#4a484d",
+    "use-badge-color": true,
+    "badge-color": "#5e4b4f",
+    "palette": [
+        "#4a484d",
+        "#a50000",
+        "#005d26",
+        "#714700",
+        "#1d3ccf",
+        "#88267a",
+        "#185570",
+        "#efefef",
+        "#5e4b4f",
+        "#992030",
+        "#4a5500",
+        "#8a3600",
+        "#2d45b0",
+        "#700dc9",
+        "#005289",
+        "#ffffff"
+    ]
+}

@@ -1,0 +1,10 @@
+# Scheme name: Everforest
+# Scheme author: Sainnhe Park (https://github.com/sainnhe)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Everforest.16
+ColorForeground=#d3c6aa
+ColorBackground=#2d353b
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#3d484d;#7fbbb3;#83c092;#dbbc7f;#a7c080;#eaedc8;#e69875;#d3c6aa;#232a2e;#d699b6;#475258;#859289;#9da9a0;#e67e80;#d3c6aa;#e9f0e9

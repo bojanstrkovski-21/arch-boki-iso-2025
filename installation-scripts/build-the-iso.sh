@@ -119,7 +119,7 @@ echo
 
 	desktop="xfce"
 
-	arch-bokiVersion='v25.06.19.01'
+	arch-bokiVersion='v25.06.22.01'
 
 	isoLabel='arch-boki-'$arch-bokiVersion'-x86_64.iso'
 

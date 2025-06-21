@@ -1,0 +1,56 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Eighties.dark.toml"
+]
+
+[colors.bright]
+black = "#5C6A72"
+blue = "#3A94C5"
+cyan = "#35A77C"
+green = "#8DA101"
+magenta = "#DF69BA"
+red = "#F85552"
+white = "#DFDDC8"
+yellow = "#DFA000"
+
+[colors.normal]
+black = "#2D353B"
+blue = "#7FBBB3"
+cyan = "#83C092"
+green = "#A7C080"
+magenta = "#D699B6"
+red = "#E67E80"
+white = "#D3C6AA"
+yellow = "#DBBC7F"
+
+[colors.primary]
+background = "#2D353B"
+foreground = "#D3C6AA"
+
+[font]
+size = 12
+
+  [font.bold]
+  family = "JetBrainsMono Nerd Font"
+  style = "Bold"
+
+  [font.bold_italic]
+  family = "JetBrainsMono Nerd Font"
+  style = "Bold Italic"
+
+  [font.italic]
+  family = "JetBrainsMono Nerd Font"
+  style = "Italic"
+
+  [font.normal]
+  family = "JetBrainsMono Nerd Font"
+  style = "Medium"
+
+[[keyboard.bindings]]
+action = "ToggleFullscreen"
+key = "F11"
+
+[scrolling]
+history = 50_000
+
+[window]
+opacity = 0.8
