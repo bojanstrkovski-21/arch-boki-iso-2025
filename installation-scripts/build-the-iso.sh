@@ -119,7 +119,7 @@ echo
 
 	desktop="xfce"
 
-	arch-bokiVersion='v25.06.22.01'
+	arch-bokiVersion='v25.06.22.02'
 
 	isoLabel='arch-boki-'$arch-bokiVersion'-x86_64.iso'
 
@@ -279,13 +279,13 @@ tput sgr0
 echo "################################################################## "
 echo
 
-	echo "Deleting any files in /etc/skel"
-	rm -rf $buildFolder/archiso/airootfs/etc/skel/.* 2> /dev/null
+	#echo "Deleting any files in /etc/skel"
+	#rm -rf $buildFolder/archiso/airootfs/etc/skel/.* 2> /dev/null
 	echo
 
-	echo "Getting the last version of bashrc in /etc/skel"
-	echo
-	wget https://raw.githubusercontent.com/erikdubois/edu-shells/refs/heads/main/etc/skel/.bashrc-latest -O $buildFolder/archiso/airootfs/etc/skel/.bashrc
+	#echo "Getting the last version of bashrc in /etc/skel"
+	#echo
+	#wget https://raw.githubusercontent.com/erikdubois/edu-shells/refs/heads/main/etc/skel/.bashrc-latest -O $buildFolder/archiso/airootfs/etc/skel/.bashrc
 
 	echo "Removing the old packages.x86_64 file from build folder"
 	rm $buildFolder/archiso/packages.x86_64
@@ -366,7 +366,7 @@ echo "################################################################## "
 echo
 
 	echo "Deleting the build folder if one exists - takes some time"
-	remove_buildfolder no
+	remove_buildfolder yes
 
 echo
 echo "##################################################################"
