@@ -169,7 +169,7 @@ mesa
 nvidia-dkms
 nvidia-utils
 nvidia-settings
-mesa-utils
+#mesa-utils
 
 ###base-devel
 base-devel
@@ -288,9 +288,9 @@ poppler-qt5
 #dmenu
 firefox
 #galculator
-#gimp
+gimp
 imagemagick
-#inkscape
+inkscape
 lshw
 meld
 #nitrogen
@@ -346,7 +346,6 @@ plocate
 oh-my-zsh-git
 p7zip
 pkgfile
-#playerctl
 polkit
 polkit-gnome
 qt5ct
@@ -376,8 +375,6 @@ yt-dlp
 zsh
 zsh-completions
 zsh-syntax-highlighting
-
-
 
 ###########################################################################
 #                           REPOS
@@ -472,7 +469,6 @@ ttf-jetbrains-mono-nerd
 #variety
 eza
 vimix-cursors
-zenity
 
 
 
@@ -489,7 +485,7 @@ chaotic-mirrorlist
 ####                               NEMESIS REPO
 ###########################################################################
 
-#arc-gtk-theme
+arc-gtk-theme
 archlinux-logout-git
 archlinux-tweak-tool-git
 #ckb-next-git
@@ -548,7 +544,7 @@ lolcat
 make
 #picom-git
 polkit-gnome
-#rofi
+rofi
 #sxhkd
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
@@ -567,3 +563,5 @@ xorg-xsetroot
 ###########################################################################
 
 #archboki-xfce
+arch-boki-sddm-simplicity
+arch-boki-viper-grub-theme-main
