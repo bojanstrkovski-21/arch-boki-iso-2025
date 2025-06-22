@@ -443,7 +443,7 @@ yay-git
 ###########################################################################
 
 calamares
-#arch-boki-calamares-cfg
+arch-boki-calamares-cfg
 arch-boki-system-installation
 
 adobe-source-han-sans-jp-fonts
@@ -524,7 +524,7 @@ archlinux-tweak-tool-git
 brave-bin
 devtools
 edu-arc-dawn-git
-edu-arc-kde
+#edu-arc-kde
 #edu-dot-files-git
 edu-hblock-git
 edu-neo-candy-arc-git
@@ -588,4 +588,4 @@ cachyos-ananicy-rules-git
 ####                           PERSONAL_REPO aka LOCAL REPO
 ###########################################################################
 
-#kiro-dummy-git
+
